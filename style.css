@@ -1,0 +1,61 @@
+.test_image_and_result
+{
+    
+    background-color: grey;
+    border-radius: 10px;
+}
+.case
+{
+    font-style:italic;
+    color: red;
+}
+.vs
+{
+    font-style: italic;
+    color:red;
+    font-size: 50px;
+}
+.google
+{
+ size: 50px;
+}
+.net
+{
+    font-size: 30px;
+}
+.h{
+    color: white;
+}
+.result{
+    color: white;
+    text-align: center;
+}
+.ans{
+    color: white;
+    text-align: center;
+}
+.test-image{
+    color: white;
+}
+#lens{
+    background-color: white;
+    border-radius: 10px;
+  
+}
+#model{
+    background-color: white;
+    border-radius: 10px;
+}
+.mod{
+    color: blueviolet;
+}
+.len{
+    color: blueviolet;
+}
+.test_image_and_result{
+    box-shadow: 20px,20px,20px;
+}
+.conclusion{
+    background-color: plum;
+}
+
